@@ -1,0 +1,26 @@
+[2018-06-18 00:57:54] [info] Start Program:
+Path:"D:\Facultate\Semestrul2\SDA\SDAProjekt\x64\Debug\SDAProjekt.exe"
+Arguments:
+Working directory: "D:\Facultate\Semestrul2\SDA\SDAProjekt\SDAProjekt\"
+Modules: Selected: D:\Facultate\Semestrul2\SDA\SDAProjekt\x64\Debug\SDAProjekt.exe Excluded: 
+Sources: Selected: D:\Facultate\Semestrul2\SDA\SDAProjekt\SDAProjekt Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Axne\AppData\Local\Temp\5an2w2uz.ncl 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+
+[2018-06-18 00:57:54] [info] Module: D:\Facultate\Semestrul2\SDA\SDAProjekt\x64\Debug\SDAProjekt.exe is selected because it matches selected pattern: D:\Facultate\Semestrul2\SDA\SDAProjekt\x64\Debug\SDAProjekt.exe
+[2018-06-18 00:57:55] [info] Module: C:\Windows\System32\ntdll.dll is skipped because it matches no selected patterns
+[2018-06-18 00:57:55] [info] Module: C:\Windows\System32\kernel32.dll is skipped because it matches no selected patterns
+[2018-06-18 00:57:55] [info] Module: C:\Windows\System32\KernelBase.dll is skipped because it matches no selected patterns
+[2018-06-18 00:57:55] [info] Module: C:\Windows\System32\msvcp140d.dll is skipped because it matches no selected patterns
+[2018-06-18 00:57:55] [info] Module: C:\Windows\System32\vcruntime140d.dll is skipped because it matches no selected patterns
+[2018-06-18 00:57:55] [info] Module: C:\Windows\System32\ucrtbased.dll is skipped because it matches no selected patterns
+[2018-06-18 00:58:01] [info] ----------------------------------------------------
+[2018-06-18 00:58:01] [info] Coverage binary generated in file: C:\Users\Axne\AppData\Local\Temp\5an2w2uz.ncl
+[2018-06-18 00:58:01] [info] ----------------------------------------------------
